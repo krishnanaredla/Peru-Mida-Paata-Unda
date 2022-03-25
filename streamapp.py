@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("Get telugu songs with specified words")
 st.write("Enter person name/word to search for")
-words = st.text_input("Lyric word", "Sravani", max_chars=15)
+words = st.text_input("Lyric word", "Srivalli", max_chars=15)
 
 
 if st.button("Get Songs"):
