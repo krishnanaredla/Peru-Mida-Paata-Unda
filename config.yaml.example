@@ -1,0 +1,8 @@
+translator:
+  url : https://microsoft-translator-text.p.rapidapi.com/translate
+  key : 
+
+musixmatch:
+  search_url : http://api.musixmatch.com/ws/1.1/track.search
+  key : 
+  track_url : http://api.musixmatch.com/ws/1.1/track.lyrics.get
